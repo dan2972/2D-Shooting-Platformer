@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/danie/source/repos/GameTest/GameTest/Content/default_texture.png","C:/Users/danie/source/repos/GameTest/GameTest/Content/bin/DesktopGL/Content/default_texture.xnb","TextureProcessor","Texture2DContent",119,89,0.09955
+"C:/Users/danie/source/repos/GameTest/GameTest/Content/face.png","C:/Users/danie/source/repos/GameTest/GameTest/Content/bin/DesktopGL/Content/face.xnb","TextureProcessor","Texture2DContent",515,4181,0.1109379
+"C:/Users/danie/source/repos/GameTest/GameTest/Content/face_mad.png","C:/Users/danie/source/repos/GameTest/GameTest/Content/bin/DesktopGL/Content/face_mad.xnb","TextureProcessor","Texture2DContent",699,4181,0.2349336
